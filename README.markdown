@@ -9,4 +9,4 @@ The 960 Grid System TextMate Bundle is a TextMate bundle to aid in rapid develop
 ##Installation
 
 1. cd ~/Library/Application\ Support/TextMate/Bundles/
-2. git clone git@github.com:adamstac/960-grid-system-textmate-bundle.git 960\ Grid\ System.tmbundle
+2. git clone git://github.com/adamstac/960-grid-system-textmate-bundle.git 960\ Grid\ System.tmbundle
